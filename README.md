@@ -1,113 +1,63 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>DevClub Convert Money</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto;">
+# 💱 DevClub Convert Money <br> 
+Conversor de moedas simples, rápido e funcional Desenvolvido com foco em prática de JavaScript e manipulação do DOM 
 
-  <h1>💱 DevClub Convert Money</h1>
+<br>
 
-  <p>
-    Aplicação web simples e funcional para conversão de moedas em tempo real (simulada),
-    desenvolvida com foco em prática de <strong>JavaScript</strong>, manipulação de DOM e formatação de valores.
-  </p>
+# 🚀 Demonstração
+🔗 Em breve disponível via GitHub Pages
 
-  <hr>
+<br>
 
-  <h2>🚀 Demonstração</h2>
-  <p>💡 (Adicione aqui o link do GitHub Pages)</p>
+# 📌 Funcionalidades
+✔️ Conversão de Real (BRL) para:
 
-  <hr>
+💵 Dólar (USD)
+💶 Euro (EUR)
 
-  <h2>📌 Funcionalidades</h2>
-  <ul>
-    <li>Conversão de <strong>Real (BRL)</strong> para:
-      <ul>
-        <li>Dólar (USD)</li>
-        <li>Euro (EUR)</li>
-      </ul>
-    </li>
-    <li>Atualização dinâmica dos valores ao clicar no botão</li>
-    <li>Alteração automática de nome da moeda e bandeira</li>
-    <li>Formatação de moeda com <code>Intl.NumberFormat</code></li>
-  </ul>
+✔️ Atualização dinâmica ao clicar no botão <br>
+✔️ Alteração automática de moeda e bandeira <br>
+✔️ Formatação com Intl.NumberFormat
 
-  <hr>
+<br>
 
-  <h2>🛠️ Tecnologias utilizadas</h2>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript (Vanilla JS)</li>
-  </ul>
+# 🛠️ Tecnologias
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
-  <hr>
+<br>
 
-  <h2>🎯 Objetivo do projeto</h2>
-  <ul>
-    <li>Praticar manipulação do DOM</li>
-    <li>Trabalhar com eventos em JavaScript</li>
-    <li>Aplicar formatação de moedas</li>
-    <li>Melhorar organização de código front-end</li>
-  </ul>
+# 🎯 Objetivo
+Este projeto foi desenvolvido para:
 
-  <hr>
+Praticar manipulação do DOM; Trabalhar com eventos em JavaScript; Aplicar formatação de moedas; Evoluir na organização de código front-end 
 
-  <h2>📂 Estrutura do projeto</h2>
-  <pre>
-📁 project
-├── index.html
-├── style.css
-├── scripts.js
-└── assets/
-    ├── logo.gif
-    ├── brasil 2.png
-    ├── estados-unidos.png
-    ├── euro.png
-    └── Vector.png
-  </pre>
+<br>
 
-  <hr>
+# 📂 Estrutura do Projeto
+📁 project <br>
+├── index.html <br> 
+├── style.css <br>
+├── scripts.js <br>
+└── assets
 
-  <h2>⚙️ Como executar</h2>
-  <ol>
-    <li>Clone o repositório:</li>
-  </ol>
+<br>
+    
+# ⚙️ Como executar
+Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
 
-  <pre>
-git clone https://github.com/seu-usuario/seu-repositorio.git
-  </pre>
+Acesse a pasta: cd seu-repositorio
 
-  <ol start="2">
-    <li>Acesse a pasta:</li>
-  </ol>
+Depois, abra o arquivo index.html no navegador.
 
-  <pre>
-cd seu-repositorio
-  </pre>
+<br>
 
-  <ol start="3">
-    <li>Abra o arquivo <code>index.html</code> no navegador</li>
-  </ol>
+# 🔮 Melhorias futuras
+🔗 Integração com API de câmbio em tempo real <br>
+🌍 Suporte a mais moedas <br>
+📱 Responsividade completa <br>
+✅ Validação de entrada de dados <br>
 
-  <hr>
+<br>
 
-  <h2>🔮 Melhorias futuras</h2>
-  <ul>
-    <li>Integração com API de câmbio em tempo real</li>
-    <li>Adição de mais moedas</li>
-    <li>Responsividade</li>
-    <li>Validação de input</li>
-  </ul>
+# 👨‍💻 Autor
+Rian Lucas da Silva 
 
-  <hr>
-
-  <h2>👨‍💻 Autor</h2>
-  <p>
-    Desenvolvido por <strong>Rian</strong><br>
-    Em constante evolução na área de desenvolvimento front-end 🚀
-  </p>
-
-</body>
-</html>
