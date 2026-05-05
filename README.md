@@ -4,7 +4,7 @@ Conversor de moedas simples, rápido e funcional Desenvolvido com foco em práti
 <br>
 
 # 🚀 Demonstração
-🔗 https://rianbr84.github.io/Projeto-com-Js/
+🔗 https://rianbr84.github.io/Projeto-conversor-de-moedas/
 
 <br>
 
